@@ -82,8 +82,8 @@ The primary goals of this project are to:
         <td>
             It operates within defined parameters when responding to the user.
             <ul>
-                <li>Equipped with data and information up until August 2021 <i>and</i> <u>is capable of engaging in discussions exclusively on topics within the established knowledge domain.</u></li>
-                <li>Efforts were made to <u>steer conversations back to the designated knowledge-base domain</u> when necessary.</li>
+                <li>Equipped with data and information up until August 2021 <i>and</i> is capable of engaging in discussions exclusively on topics within the established knowledge domain.</li>
+                <li>Efforts were made to steer conversations back to the designated knowledge-base domain, when necessary.</li>
             </ul>
         </td>
     </tr>
