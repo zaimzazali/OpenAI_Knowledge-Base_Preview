@@ -60,8 +60,8 @@ The primary goals of this project are to:
 ## Side-by-Side Comparison :pushpin:
 <table>
     <tr>
-        <th>Base</th>
-        <th>Knowledge-Base Integration</th>
+        <th>Base Model App</th>
+        <th>With Knowledge-Base Integration</th>
     </tr>
     <tr>
         <td>
@@ -69,6 +69,22 @@ The primary goals of this project are to:
         </td>
         <td>
             <img src="./README_Data/Overview-1.gif" alt="Base OpenAI Model with Knowledge-Base Integration" width="250">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            It works like a normal ChatGPT, trying to have a conversation about anything.
+            <ul>
+                <li>Equipped with data and information up until August 2021.</li>
+                <li>It engaged in discussions on a wide variety of topics provided by the user.</li>
+            </ul>
+        </td>
+        <td>
+            It operates within defined parameters when responding to the user.
+            <ul>
+                <li>Equipped with data and information up until August 2021 <i>and</i> <u>is capable of engaging in discussions exclusively on topics within the established knowledge domain.</u></li>
+                <li>Efforts were made to <u>steer conversations back to the designated knowledge-base domain</u> when necessary.</li>
+            </ul>
         </td>
     </tr>
 </table>
@@ -81,6 +97,7 @@ The primary goals of this project are to:
         <th>Element</th>
         <th>Landscape</th>
         <th>Portrait</th>
+        <th>Remarks</th>
     </tr>
     <tr>
         <td>
@@ -91,6 +108,9 @@ The primary goals of this project are to:
         </td>
         <td>
             <img src="./README_Data/Pot-Info.gif" alt="Base OpenAI Model with Knowledge-Base Integration" width="150">
+        </td>
+        <td>
+            The "About" modal appears, displaying the development motivation.
         </td>
     </tr>
     <tr>
@@ -103,6 +123,9 @@ The primary goals of this project are to:
         <td>
             <img src="./README_Data/Pot-Clear.gif" alt="Base OpenAI Model with Knowledge-Base Integration" width="150">
         </td>
+        <td>
+            The "Clear Conversation" modal appears, requesting confirmation from the user.
+        </td>
     </tr>
     <tr>
         <td>
@@ -113,6 +136,9 @@ The primary goals of this project are to:
         </td>
         <td>
             <img src="./README_Data/Pot-Scroll.gif" alt="Base OpenAI Model with Knowledge-Base Integration" width="150">
+        </td>
+        <td>
+            The conversation messages scroll beneath the fixed feathered header and footer.
         </td>
     </tr>
 </table>
