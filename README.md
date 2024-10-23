@@ -75,7 +75,7 @@ The primary goals of this project are to:
         <td>
             It works like a normal ChatGPT, trying to have a conversation about anything.
             <ul>
-                <li>Equipped with data and information up until August 2021.</li>
+                <li>Equipped with data and information up until December 2020.</li>
                 <li>It engaged in discussions on a wide variety of topics provided by the user.</li>
             </ul>
         </td>
